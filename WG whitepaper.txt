@@ -1,0 +1,696 @@
+WG Whitepaper 2.0
+
+
+Introduction        2
+Phase 1 Overview: Wander the Wonder        2
+Characters introduction        3
+Character types        3
+SHROOM Token        4
+Lore        5
+Chapter One Gameplay and Economy        7
+Phase 0.5: Maze Game- Pre-alpha        7
+Phase 1: Maze Game        9
+Character Gameplay        9
+Items        10
+Traps        12
+Duchess’s Marketplace        13
+Phase 2: Empire        13
+Phase 3: Battle!        14
+Characters        14
+Card Soldiers, Queen, and Alice        15
+Stats & Attributes        15
+Card        15
+Queen        16
+Alice        16
+Stats for future phases        16
+Enhancement        16
+XP & Potential        16
+Stat Upgrades        17
+FAQ        18
+General        18
+Character NFTs        18
+Phase 0.5: Mini Maze Game        19
+Tokens        19
+Interoperability        20
+—----------------------------        20
+
+
+
+
+Introduction
+
+
+Wonder Game brings collaborative GameFi to players in a cross-chain adventure. With each chapter, players immerse themselves deeper into the rabbit hole by exploring different blockchains. The first chapter encourages the player community to work together while strategically competing with one another as they explore Wonder Game and find magical SHROOMs, which allows them to create and collect in-game items - boosting creativity and social interaction, all while bringing different ecosystems together.
+
+
+The rabbit hole into every new chain will allow players to upgrade their Character NFT and explore the new chain and chapter with new goals. The intrinsic value - through collective exploration, learnings on new chains, and imaginative creation from the community - will extend the reach of the Wonder Game ecosystem.
+
+
+Phase 1 Overview: Wander the Wonder
+
+
+The first phase will revolve around exploring the Queen´s maze. The goal is to gather valuable in-game items and $SHROOM. Some will be useful immediately and others will be of value when 'Empire' launches (Phase 2).
+
+
+  
+
+
+
+This map will be the setting for the maze game. It has different types of regional terrains hosting different types of mazes. For now(Phase I), there will be one area that will be available.
+
+
+A region may have multiple areas. Each hexagon represents an area. After a maze is created, it changes periodically. Players can place one Queen NFT in an area, thereby creating the Queen’s Maze. 
+
+
+The goal for players with Queen NFTs is to have Alices and Cards go through their maze and collect rewards for Empire. The area selected will represent a player’s kingdom for the duration of the epoch. Subsequently, a maze will magically form around the palace. And for the players with Cards and Alices, the goal is to find new mazes and explore to find items and SHROOM in the maze. The Queen also receives 30% of these rewards. Players can choose to place a Queen and get rewards passively or use their Cards and Alice NFTs to get rewards actively.
+
+
+The items and SHROOM will be taken on a first-come, first-serve basis. This makes finding and exploring new mazes all the more important!
+
+
+ 
+Characters introduction 
+Character NFTs each have their own role in Wonder Game. They are utility-based NFTs that will allow you to stake, explore and upgrade them in Wonder Game. There is a total of 10,000 Character NFTs allocated for Chapter 1. This utility changes as they move through new chapters.
+
+
+You can strategize with friends and explore Wonder Game to find the best place to accumulate SHROOM.
+
+
+Each character has its own stats that you can upgrade to get higher skills and better in-game - the stats will stay with the Character NFT.
+
+
+Character types
+Cards
+Cards are the foot soldiers for the Queen. They are responsible for finding resources and protecting them from Alices. There are 7500 Cards available for Chapter 1.
+
+
+* Runner Club
+* Insomniac Diamond
+* Marker Spades
+* All-Rounder Heart[a][b]
+
+
+Alice
+Alice is the mischievous character that arrives in the Wonder Realm searching for the SHROOM. There are 1250 Alices in Chapter 1, making them pretty rare. 
+
+
+Queen
+The ruler of Wonder Realm, the Queen, orders the cards to collect resources for her. Similar to Alices, there are 1250 Queens in Chapter 1. 
+
+
+The chapter ‘’Character gameplay’’ contains a more elaborate description of their abilities.
+
+
+SHROOM Token
+SHROOM token ($SHROOM) is the native token of the Wonder Game, the magical power that runs the Wonder Game ecosystem. SHROOMs allow you to enter, own, use, participate, and govern Wonder Game.
+
+
+$SHROOM can be used to change your character’s name and increase their stats. It can also be used to buy raffle tickets for Raffles and to bid on Auctions. Besides that, SHROOM is also a desired commodity in-game. 
+
+
+There are 3 different ways of acquiring SHROOM, other than buying it on QuickSwap. Finding SHROOM in the maze is the first one. However, Wonder Game also provides a Liquidity Pool and a shroom staking feature. 
+Contract Address: 0x35d112044D174Dd16Fee24d5C5CaB24F4f81cB41
+
+
+
+
+________________
+Lore
+Follow the White Rabbit, and down and down you go. Down to the world of Wonderland, a magical place, a mystical place. The place that a young girl named Alice had traveled to, met all sorts of strange people, ate all sorts of strange things, and had all sorts of strange adventures. And then she woke up.
+
+
+Time flows differently in Wonderland. Centuries go on, yet no time passes. Things change, yet a lot is still remarkably the same. 
+
+
+Alice returns, or maybe she wasn’t gone at all. She notices a lot of change, and yet it feels almost too familiar. 
+
+
+The Queen of Hearts still resides in her Castle, ruling the realm with an Iron fist. A maze surrounds the Queen’s Castle. Her gardens that the Card Soldiers attended to are now overgrown and with a life of their own, a deadly maze in their place. 
+
+
+How Curious then, that the one thing that should stand out, fits right in. A dark dreary maze, filled with horrors and wonders unimaginable feels par the course in this mad mad world. 
+
+
+Alice doesn’t brave entering the Maze, the Queen’s domain. She seeks to visit her friend the Duchess first. The Duchess’s house is a sprawling marketplace now, home to vendors selling all sorts of things. 
+
+
+The Duchess smiles as Alice approaches, and invites her over to tea. 
+
+
+Tea is different without the Hatter’s riddles, without the sleepy dormouse snoring, and Alice can’t help the pang of sadness as she misses the Hare’s stories. But she preservers and listens to the Duchess’s tales. 
+
+
+The Duchess tells her about the sprawling maze and the dangers and treasures within. She tells about the Cards who had braved entering, of those who were trapped, and those who had returned with Chests of Treasure, and mystical items galore! 
+
+
+Alice is an adventurer at heart, her mind is sharp and her Curiosity is peaked. She makes up her mind.  
+
+
+Alice stands looking at the entrance of the maze, and at the Queen’s Castle, she spots in the middle. She slowly enters, preparing herself for whatever might appear. She would explore the maze, she would steer clear of the Cards. She is in a new Wonder Realm now, she can’t trust anyone. 
+
+
+She has some food in her bag, some items that the nice Duchess handed her, and a resolve to find everything she can. 
+
+
+
+
+Will she prevail, or will the Queen’s soldiers get to the items first? Nothing is certain in this world of wonder, but lots of items are to be found, and lots of fun to be had. 
+
+
+
+
+
+
+________________
+
+
+Chapter One Gameplay 
+Chapter One of Wonder Game will launch in the Polygon blockchain. It consists of three different phases of the game. 
+
+
+Phase 1: Maze Game- Wander the Wonder of the Maze, and collect all you can find!
+Phase 2: Empire- Every Queen needs her Empire, how will you build yours?
+Phase 3: Battle- Battle with the other Queens and grow your empire 
+Phase 0.5: Maze Game- Pre-alpha 
+Before the release of Phase 1: Maze Game, we will have a mini maze game. This will utilize most of the components of Phase 1 and will be a pre-alpha version of the game. 
+
+
+There will be one singular maze that people can explore in the mini-game, and that would change periodically over an epoch of three days. Players will be able to enter the maze and search for items. While roaming around the maze, players burn their energy. They will have fixed energy to explore the maze. They will not be able to see another player in the maze while they are playing. 
+
+
+Maze Stats
+Maze size: 1000x1000
+Walkable Area: 40-50%
+Items Drop Rate: 5%
+(These numbers are subject to change)
+
+
+
+
+Character NFTs: 
+All three Character NFTs will be able to explore the maze during this phase. This will not be true for any subsequent phase after this. Starting in Phase 1, Queens will remain in their castle, overseeing the Cards.
+
+
+Cards, Queens and Alices will be able to roam the maze to find items and one special item hidden amongst the chests. One item that will be helpful to the Queen as she begins to create her own maze. 
+
+
+Energy: 
+Every Character will have some Energy to explore the maze. We will start with a certain amount of base Energy, and as you upgrade your NFT, your energy will increase. The Energy will be a weighted sum of the stats of the NFT.
+Provided the fact that a fully upgraded Card contains a higher skill level than Alice, the total potential energy level for cards is higher.
+Keep in mind, in the later version of Phase 1, the Energy of NFT will be derived from the ‘Stamina’ stats, and the energy recharging mechanism will depend on ‘Rest’ stats.
+Energy will recharge every 24 hours. Energy will regenerate at the same time for every NFT, at 12 pm UST. All energy changes as a result of upgrades will be in effect after 12 pm UST.
+
+
+Item Rewards: 
+There will be 2 types of items that you can get in this phase. 
+  
+
+Item Drop rate for Phase 0.5(subject to change)
+
+
+Food: Scattered around the maze, there will be food items. The food must be consumed immediately after finding them. For this phase, there will only be one food item (Cupcake) giving you 15 energy.
+
+
+Treasure Crates: There will be three types of Treasure Crates available in this maze: Wooden, Gold, and Legendary. 
+
+
+For this phase, the crates will be just a collectible. You will not be able to open the Crates right away. As we get closer to the phase 1 game release, the crates and what they contain will be and will be airdropped to the corresponding NFT holders. 
+
+
+The items that can be found inside the maze will be in-game items and food. Legend has it that the Queen herself is roaming the maze searching for one elusive item. 
+
+
+Leaderboard: 
+The leaderboard will be divided based on NFT type. We would have 6 leaderboards in total for Clubs, Spades, Hearts, Diamonds, Alices, and Queens. 
+
+
+The highest-performing scores are listed on the leaderboard on daily basis. The scores are calculated according to the no. of items and treasure chests collected by the user. 
+
+
+Only the best score from the wallet is tracked on the Leaderboard.
+ 
+
+
+
+
+Phase 1: Maze Game
+Tagline: Wander the Wonder of the Maze
+Maze Game will be the first phase of the Wonder Game. The setting of this game is on different mazes in the Wonderland map. Inside each maze, you will find a Queen’s Castle, and valuable items scattered around the maze. 
+
+
+The three Character NFTs will have their roles to play in the Maze as they wander the maze in search of items, and seek to build their Empire. 
+
+
+The Maze will be created once the Queen places herself in a position. Depending on her stats, the maze will have various resources. And if she has acquired the prestigious item ‘Heart of the Maze’, then the maze will be truly fortuitous indeed. She exacts a tax on the magical SHROOM that people will find, and also on a few items. 
+
+
+The Cards are roaming the maze at the behest of the Queen. They aim to find as many items and resources in the maze as they can. As they travel through the dreary maze, many prizes await them, and many traps do too. Once they enter the maze, they cannot exit until they find one of the exit portals. 
+
+
+Alice is an explorer at heart, and she explores the maze, dodging the Queen’s Card Soldiers and trying to get as many items as she can. Alice can exit the maze whenever she wants, and she gets to keep all the items that she can find! 
+
+
+Wander the maze and search for items, but do be careful of the traps. Collect resources to build your Empire and watch it grow! 
+
+
+Character Gameplay
+
+Queen: Maze Creator 
+The Queen is the Creator of the Maze. She chooses a location and places herself and her castle there. Through her power, there flows a maze with many great items hidden inside. She resides inside her castle, collecting taxes from the Cards that are exploring her maze. 
+
+
+Alice: Maze Explorer
+Alice is an explorer at heart, and she is exploring the Queen’s Maze to find the items before the Queen’s Cards can. 
+
+
+Cards: Maze Soldiers
+Cards are ever loyal to the Queen and they are exploring the maze at her behest, finding items and treasures within. They have to pay a 30% tariff to the Queen for the items that they find, but the rest is theirs to keep. 
+
+
+Items
+Items in Phase 1 fall under two categories. Some items will be useful for Maze Game, and others will be used to build up Phase 2: Empire
+
+
+In-maze Items
+
+
+These items are useful for Maze Game and fall under two types: Food and Resources. These items can also be bought from the Marketplace. These items will be ERC-1155 tokens, but only a few of them will be tradable. 
+
+
+
+
+Food
+items are what give you extra energy inside the maze. They can be bought and consumed later on, or immediately consumed after finding. However, all foods go bad, and there will be an expiry timer for all of them. You have to use them before they expire. 
+
+
+A tea party gone wrong or maybe gone right. Look at all these tasty items and take a bite. Maybe then you will find Energy glowing and bright. 
+Food
+	Energy increases
+	Buttered Toast
+	10
+	Grilled Cheese
+	25
+	Cupcakes 
+	15
+	Treacle Tart
+	30
+	Brownies
+	20
+	(The drop rates of food items and cost in the marketplace will be revealed closer to the Phase 1 release)
+
+
+Resources: 
+
+
+Various items can be found in the Maze that will aid you through it. These are just some initial items, more will be added closer to the Phase 1 release.
+
+
+Items
+	Effect
+	The Looking Glass 
+	A rough jagged piece of a special mirror. Seeing the maze through the looking glass will allow them to see hidden traps.
+	The Reenergizer 
+	Allows them to skip the resting period- full energy at once
+	Torch 
+	Increases the user's vision and removes the Darkness of the maze making them see more. 
+	Duty-Free Ticket 
+	Skips tax that a Card owes to the Queen, but only for a certain time.
+	Rabbit’s Foot 
+	Items collected for the next (X) steps/minutes have increased rarity chance
+	The Sector Dissector
+	Allows NFTs to enter a claimed sector. Negates the ability given to Cards by Sector stat.
+	Spectral Shoes
+	Allows NFT to walk through the wall of the maze once. 
+	(The drop rates of resources and cost in the marketplace will be revealed closer to the Phase 1 release.)
+
+
+
+
+Empire Items 
+
+
+The items for Empire Game would be taxed 30% to the Queen of the Maze. These items will be given in a bundle like 10 Lumber, 5 Iron, etc. 
+
+
+These items will be tradable within the community. However, our marketplace will not sell them. 
+
+
+Some of the categories of Empire Items are
+* Building blocks - Building blocks for Queens to build their empires. Elements like lumber, gold, silver, iron, glass, etc.
+* Decoration- Items used to decorate your Castle and empire. Eg: Banner, Flowerpot, etc. 
+* Infantry- Weapons and Defenses fall under this type. 
+
+
+Item Name
+	Category
+	Lumber
+	Building Blocks
+	Gold
+	Building Blocks
+	Silver
+	Building Blocks
+	Iron
+	Building Blocks
+	Glass
+	Building Blocks
+	Flowers
+	Decorations
+	Banner
+	Decorations
+	Swords
+	Infantry
+	Shield
+	Infantry
+	Spears
+	Infantry
+	Cannon
+	Artillery
+	Bow
+	Infantry
+	
+
+
+
+Traps
+Traps allow people to trap other players and give them some disadvantages. Both Alice and Cards can trap other Alice and Cards. Traps can be both found during exploration and bought from the marketplace. 
+
+
+How do traps work? 
+* In order to place a trap, players must have a trap in their inventory. They can place Traps anywhere in the maze. Players will not be entrapped in their own trap. If they place a trap ahead of them, then they can walk in that direction freely. The next user to come upon the trap will be trapped.
+
+
+What do Traps do? 
+Traps have a baseline power level, and they can be increased in strength by using SHROOM. Items used to see traps also have this same concept. The higher the trap, the higher the item needs to be to see them. 
+
+
+Traps will decrease the energy of an NFT by 20 energy. This number can be increased by increasing the strength of the traps. 
+
+
+Duchess’s Marketplace
+Duchess’s Marketplace is a sprawling marketplace for all things helpful. Running out of Energy? Buy some food to last you in the Maze. Or maybe some items to help you find things better? Worry not, for the Duchess has you covered! 
+
+
+The Duchess’s Marketplace will be available in the first phase. Only the food and in-game special items can be bought. You can buy them with SHROOM. Empire Items will not be sold in the marketplace. 
+
+
+
+
+Phase 2: Empire
+Every Queen needs her Empire, how will you build yours?
+Empire is the Second Phase of Wonder Game, and it builds up from the resources you collected from the Maze Game. 
+
+
+In Phase 2, a Queen will build her Empire, and protect it from other Queens and Alices. To build an Empire, you would need to collect resources from the Maze. The items found in the Maze will not be sold on our marketplace but can be traded amongst players. 
+
+
+There will be various facets of the Empire, from building your Army with your Card Guards, collecting and building resources, and preparing your Empire. Imagine collaborating with other players, combining your strengths, and taking on a rivaling guild. 
+
+
+And fear not, curious Alice will not be left behind in this Queendom, for she is just waiting for Queen’s attention to be elsewhere so she can loot the precious SHROOM from inside the Queen’s Castle. 
+
+
+More information on Empire will be released closer to the Phase 2 launch. 
+
+
+Phase 3: Battle!
+Battle with the other Queens and grow your empire! 
+Batte is the third and final phase of Wonder Game! This will be a full-action battle game where you can fight with other queens and continue to grow your empire. 
+
+
+For it is in Battle that the trained Card soldiers will prove their worth. It is in Battle that the Queen conspires and attacks, her strategies bringing her forth. And it is in Battle that the lonesome Alice, always adventurous and curious will find her place in this world. 
+
+
+In the fog of war, what do you see? And what do you become?
+
+
+More information on Battle will be released closer to the Phase 3 launch. 
+
+
+
+
+Characters
+Character NFTs are playable characters with their own role in Wonder Game. They are utility-based NFTs that will allow you to do various things with them in Wonder Game. This utility changes as they move through new chapters.
+* Each character has its own stats that you can upgrade to get higher skills and better in-game - the stats will stay with the Character NFT.
+* Duchess's Marketplace will allow you to buy and sell your Character NFT.
+* NFTs can be traded with both MATIC and our token SHROOM. 
+
+
+
+
+Card Soldiers, Queen, and Alice
+
+
+Out of the total 10,000 NFTs - 75% are Cards, 12.5% Queens, and 12.5% Alices.
+The PreSale mints were available with both ICX and Harmony ONE. The Mint has stopped, and the remaining Character NFTs is being raffled in the weekly raffles, and can also be bought at the daily auctions. 
+
+
+The collection of Character NFTs will only be 10,000. We are in the process of changing the Gen 1 and Gen 2 mints. More information on this will be revealed later. 
+
+
+Stats & Attributes
+All three Character type has their own stats that can be upgraded - more in-depth in the enhancement section. Each Card Soldier type also has its unique upgradeable stats.
+
+
+XP
+Experience points can be earned by playing the game. In the maze game, each step taken in the game equals some amount of XP earned. 
+
+
+In order to upgrade your NFTs, you would need to play the game and earn XP. XP levels limit the number of upgrades you can do. As you play the game, earn XP, and increase your level, you can upgrade more. More on this is in the Enhancement section. 
+
+
+Card
+
+
+Stamina: Stamina determines how much Energy a Card has. 
+Rest: Rest decreases the regeneration time of Energy.
+Ground: Ground Stat allows you to teleport into a location of your choosing in a certain radius. 
+Sector: Sector allows you to claim a sector for yourself for a certain time. During the duration, no other NFT can enter the Sector. 
+Prestige: Prestige decreases the amount of tax a Card has to pay to the Queen
+Luck: Luck increases the chance of finding a rare item. 
+(Note: These abilities are applicable for Maze Game, as we keep going into the Empire game, the abilities will be different and this section will be updated)
+
+
+Suit Specific Attributes
+Runner Club- This athletic soldier has more Energy to traverse Wonder Maze.
+Insomniac Diamond - This party animal requires less regeneration time to regenerate his Energy. 
+Marker Spades- This land surveying soldier marks the camp area to claim all the prizes for himself. 
+All-Rounder Heart- This multi-talented soldier has all three skills, but unfortunately can’t max out any skill, making him a jack of all trades, but master of none.
+
+
+
+
+Queen
+Order: Order stat gives the Queen more order to the maze she is creating. There will be more items in the maze.
+
+
+Alice
+Curiosity: Curiosity often leads to better things, and here it sure does. This stat will give Alice a bigger advantage in Energy, finding items, and avoiding traps. 
+
+
+Stats for future phases
+As we go along from the Maze game, to Empire and Battle and beyond, these stats will change in their abilities and powers. There might be new stats and new things that the NFTs can do!
+
+
+Enhancement
+XP & Potential 
+
+
+In order to upgrade the stats of your NFT, you would need to play the game and earn XP. To upgrade each stat, a certain amount of XP is required. With each upgrade, your character potential is also increased. 
+
+
+We have 6 levels of Character Potential. Each level of Potential comes with 12 sub-levels of its own. 
+
+
+It is possible to upgrade your NFTs right now, and max upgrades allow you to upgrade up to 2 out of 6 levels of Potential. No XP is needed for this, but once Phase 1 launches, you will need XP to upgrade each stat. The table of how much XP you will need to update will be released then. 
+
+
+After the launch of Phase 1, the ones with maximum upgrades will start at a different XP and Character Potential level than the ones with zero upgrades. 
+
+
+Stat Upgrades
+It is possible to upgrade Character NFTs before the game launch using SHROOM. No XP is needed at this stage. However, it is only possible to upgrade NFTs to 33% of their total level. 
+
+
+The max upgrades for all three types of NFTs are: 
+
+
+
+
+Queen
+
+
+Stat 
+	Total 
+	Current Max
+	Order
+	100
+	33
+	
+
+Alice
+
+
+Stat 
+	Total 
+	Current Max
+	Curiosity
+	100
+	33
+	
+
+Cards
+
+
+Stats
+	Max
+	Club
+	Diamond
+	Spades 
+	Heart
+	Stamina
+	200
+	120
+	33
+	33
+	110
+	Rest
+	100
+	33
+	120
+	33
+	110
+	Ground
+	6
+	0
+	0
+	2
+	0.67
+	Sector
+	150
+	50
+	50
+	50
+	50
+	Luck
+	100
+	33
+	33
+	33
+	33
+	Prestige
+	100
+	33
+	33
+	33
+	33
+	
+
+
+
+
+
+FAQ
+General
+What is Wonder Game?
+Wonder Game is a Play-to-Earn, collaborative Defi game that takes players on a cross-chain adventure to different blockchains with different chapters. It is based on Alice in Wonderland and features various elements from the story.
+
+
+What is GameFi?
+A game ecosystem where game builders leverage the immutability of blockchain technology to create in-game assets that are provably unique, transparent, and transferable. Players can have fun playing the game and collecting & trading these digital assets and tokens. 
+
+
+What Blockchain is Wonder Game using?
+Wonder Game is releasing Chapter One on Polygon Blockchained. The next chapter will be released on SNOW/ICE Blockchain. Each chapter of the game will be released on different blockchains.
+
+
+Which token do I need to play the game?
+Since the game is launching on Polygon Chain, you will need MATIC token for the gas transactions.
+
+
+When will the gameplay phase start?
+Wonder Game has been divided into three phases: Maze, Empire, and Battle. A pre-alpha phase 0.5 mini-game will be released soon.
+
+
+Character NFTs
+Who are the Character NFTs?
+3 characters will be available in Chapter One of the game. The characters are Alice, Queen, and Cards.
+
+
+What do I do with Characters?
+The characters are central to the gameplay of Wonder Game. You can use the characters to explore Wonder Game and strategize the best way to get SHROOMs.
+
+
+How do I get Character NFT to get access to the game?
+You can get them through raffles and auctions. or buy them in our marketplace or at OpenSea.
+
+
+
+
+Phase 0.5: Mini Maze Game
+
+
+Do I need NFT to play?
+Yes, you will need NFT to play the maze game. 
+
+
+Who can create a Maze?
+In this pre-alpha phase, there will only be one maze that we will create. However, in later phases, Queen NFTs will be able to create mazes. 
+
+
+What resources can I get?
+You can get Food items that increase your energy, and Treasure Chests in this phase. There is one food item: Cupcake, and there are three types of Chests. 
+
+
+Can you open the Chests? Are they tradeable?
+You will not be able to open the Chests right away. They will be opened closer to the Phase 1 release. They are also not tradable. This encourages players to set out and explore while diminishing ‘pay-to-win’ strategies.
+
+
+What is the Epoch time in phase 0.5?
+We will have an epoch of 3 days in Phase 0.5. The maze will change at every epoch. 
+
+
+What is the maze size?
+The maze will be 1000x1000 in size. 
+
+
+
+
+Tokens
+Do I need to purchase a land NFT in addition to my character NFT?
+There is no land NFT right now and you do not need to purchase a land NFT. The Wonder Game Forest is available for everyone.
+
+
+How do I get SHROOMs in the game?
+SHROOM can be found in the Wonder Maze by simply exploring the maze. 
+
+
+What do I do with my SHROOM tokens?
+You can use your SHROOM tokens to do various things in-game. You can change the name of your NFT characters, upgrade their stats, provide LP, Stake, and even mint new ones.
+Interoperability
+When is Wonder Game coming to the ICE/SNOW blockchain?
+Wonder Game will come to ICE/SNOW for Chapter 2 when it’s ready to transition. Wonder Game is an ICON grant program project and is looking forward to deploying on ICE/SNOW.
+
+
+How will the Polygon blockchain and ICE blockchain interconnect with each other?
+At the moment, each chapter takes place on its own blockchain. We are exploring different avenues to connect the Chapters. More details will be shared in the future.
+
+
+
+
+—----------------------------
+
+
+
+
+
+
+However, for Phase 1[c] we are collaborating with Arcana Network. Their SDKs allow players to create an account using email or social accounts. This way we lower the threshold for Web2 users. 
+It must be noted that in order to experience the full extent of the game, NFTs will be necessary. [d]
+
+
+
+
+[a]Is there a difference in skills for each card? If so, that would definitely be valuable to mention
+[b]Yeah there are, but the reason this wasn't added here was because we have gone into a deep dive later, and I felt that the same information was repeated. We can also add them here, or remove from the later one
+[c]will be added to Phase 1 FAQ
+[d]Let's reword this to say even after users can use Arcana they need NFTs to enter (full experience means we allow people to enter without the NFT) The first sentence says NFT is required in this section
