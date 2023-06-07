@@ -9,8 +9,8 @@ import os
 from method import data_querying
 load_dotenv()
 
-BOT_TOKEN = "MTExNTU0MDgwMTA5OTkzOTk1MA.GePGZJ.JvKfynWsc5rLOSfbi5FtEDrRoNMybgpYxxMwMM"
-CHANNEL_ID = 1115542956963790998
+BOT_TOKEN = "Your token"
+CHANNEL_ID = your_id
 
 # sets ! as symbol denoting start of the command
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
